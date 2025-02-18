@@ -8,7 +8,7 @@ BhosxzTechke/BhosxzTechke is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/BhosxzTechke">Github </a>| <a href="https://www.instagram.com/jmbosantiks/" target="_blank" >Instagram </a> | <a href="https://www.facebook.com/danmichael.antiquina" target="_blank" >Facebook </a>  |
+<a href="https://github.com/BhosxzTechke">Github </a>| <a href="https://www.instagram.com/jmbosantiks/" target="_blank" >Instagram </a> | <a href="https://www.facebook.com/danmichael.antiquina" target="_blank" >Facebook </a> 
 
 🔬 I’m currently working on Basic Programming  and Designing. 
 
