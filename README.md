@@ -15,10 +15,9 @@ Institute for Viral Hepatitis, The Second Affiliated Hospital, Chongqing Medical
 
 <a href="Github">Github </a>| <a href="https://www.instagram.com/jmbosantiks/" target="_blank" >Instagram </a> | <a href="https://www.facebook.com/danmichael.antiquina" target="_blank" >Facebook </a>  |
 
-🔬 I’m currently working on microbial genomics and metagenomics.
-🔭 I'm passionate about reproducible research and open-source software.
-My suggestions for improving the usability of bioinformatic tools.
-Learn more: http://shenwei.me
+🔬 I’m currently working on Basic Programming  and Designing.
+🔭 I'm passionate about thing that i didn't know and open-source software.
+Learn more: http://shenwei.me](https://jmbosantiks.my.canva.site/
 
 I'm grateful to users who have greatly helped to report bugs and suggest new features.
 I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
