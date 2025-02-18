@@ -13,7 +13,7 @@ Bioinformatician
 Institute for Viral Hepatitis, The Second Affiliated Hospital, Chongqing Medical University, China
 
 
-<a href="Github">Github </a>Github | Twitter | Biostars | Google Scholar | ORCID
+<a href="Github">Github </a>| <a href="[Github](https://www.instagram.com/jmbosantiks/)">Instagram </a> | Biostars | Google Scholar | ORCID
 
 🔬 I’m currently working on microbial genomics and metagenomics.
 🔭 I'm passionate about reproducible research and open-source software.
