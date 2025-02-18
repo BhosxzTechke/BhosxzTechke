@@ -1,5 +1,5 @@
 
-<h2>ANTIQUINA</h2> <h3>DAN MICHAEL</h3>
+<h3>ANTIQUINA, DAN MICHAEL</h3>
 
 Bachelor of science in Information Technology
 
