@@ -1,7 +1,7 @@
 
 <h2>ANTIQUINA </h2>
 
-- Bachelor of science in Information Technology
+Bachelor of science in Information Technology
 
 <!---
 BhosxzTechke/BhosxzTechke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Bioinformatician
 Institute for Viral Hepatitis, The Second Affiliated Hospital, Chongqing Medical University, China
 
 
-<a href="Github">Github </a>| <a href="https://www.instagram.com/jmbosantiks/">Instagram </a> | Biostars | Google Scholar | ORCID
+<a href="Github">Github </a>| <a href="https://www.instagram.com/jmbosantiks/" target="_blank">Instagram </a> | Biostars | Google Scholar | ORCID
 
 🔬 I’m currently working on microbial genomics and metagenomics.
 🔭 I'm passionate about reproducible research and open-source software.
