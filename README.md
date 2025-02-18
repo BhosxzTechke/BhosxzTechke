@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 🔭 I'm passionate about learning and open-source software.
 Learn more: https://jmbosantiks.my.canva.site/
 
-I'm grateful to be part of tech.
-eager to learn 1% every day.
+- I'm grateful to be part of tech.
+- eager to learn 1% every day.
