@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 <a href="Github">Github </a>| <a href="https://www.instagram.com/jmbosantiks/" target="_blank" >Instagram </a> | <a href="https://www.facebook.com/danmichael.antiquina" target="_blank" >Facebook </a>  |
 
 🔬 I’m currently working on Basic Programming  and Designing. 
-🔭 I'm passionate about thing that i didn't know and open-source software.
+🔭 I'm passionate about learning and open-source software.
 Learn more: https://jmbosantiks.my.canva.site/
 
-I'm grateful to users who have greatly helped to report bugs and suggest new features.
-I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
+I'm grateful to be part of tech.
+eager to learn 1% every day.
